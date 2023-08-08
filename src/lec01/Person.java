@@ -1,4 +1,4 @@
-package lec02;
+package lec01;
 
 public class Person {
 
@@ -13,5 +13,3 @@ public class Person {
   }
 
 }
-
-
